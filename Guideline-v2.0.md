@@ -1,9 +1,7 @@
 <br><br><br>
 
 <div align="center">
-  <img src="./images/media/image1.jpeg" alt="Company Logo 1" width="250">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./images/media/image2.png" alt="Company Logo 2" width="200">
+
   <h1>Single Sign-On Platform for<br>MyDigital ID</h1>
   <h2>SSO Integration Guideline</h2>
   <h3>Document</h3>
@@ -12,8 +10,6 @@
 
 |                 |                                  |
 | --------------- | -------------------------------- |
-| **Document Author** | MyOne Corporation Sdn. Bhd.      |
-| **Document Owner** | My Digital ID Sdn. Bhd.          |
 | **Date** | 14/7/2025                        |
 
 <br>
