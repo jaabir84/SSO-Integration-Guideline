@@ -1,3 +1,5 @@
+<br><br><br>
+
 <div align="center">
   <img src="./images/media/image1.jpeg" alt="Company Logo 1" width="250">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -20,6 +22,8 @@
 > *This document contains confidential and sensitive information. The information contained within should not be reproduced or redistributed without prior written consent from My Digital ID Sdn. Bhd.*
 
 </div>
+
+<br><br><br>
 
 ---
 
