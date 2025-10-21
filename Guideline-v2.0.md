@@ -15,7 +15,7 @@
 <br>
 
 
-> *This document contains confidential and sensitive information. The information contained within should not be reproduced or redistributed without prior written consent from My Digital ID Sdn. Bhd.*
+<br>
 
 </div>
 
