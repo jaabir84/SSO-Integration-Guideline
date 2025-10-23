@@ -21,9 +21,8 @@ This guide covers:
 ---
 
 ## 🚀 Quick Start
-1. Select your version from the table.
-2. Browse the each section in Markdown verson.
-3. Or download the PDF from the Releases page.
+1. Browse the section in 'Guideline' each version for Markdown from the table.
+2. Or download the PDF from the Releases page.
 
 ---
 
