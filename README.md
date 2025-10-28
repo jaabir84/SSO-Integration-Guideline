@@ -7,7 +7,7 @@ Each version is maintained in its own branch for clarity.
 ## 📌 Available Versions
 | Version | Branch | Release Notes | Download PDF | Guideline |
 |---------|--------|--------------|--------------|-----------|
-| v3.0 | [`branch-v3.0`](https://github.com/jaabir84/SSO-Integration-Guideline/tree/branch-v3.0) | [Release v3.0](https://github.com/jaabir84/SSO-Integration-Guideline/releases/tag/v3.0) | [PDF](https://github.com/jaabir84/SSO-Integration-Guideline/releases/download/v3.0/SSO.Integration.Guideline.Document_v3.0.pdf) | [Guideline](https://github.com/jaabir84/SSO-Integration-Guideline/blob/branch-v2.0/Guideline-v3.0.md) |
+| v3.0 | [`branch-v3.0`](https://github.com/jaabir84/SSO-Integration-Guideline/tree/branch-v3.0) | [Release v3.0](https://github.com/jaabir84/SSO-Integration-Guideline/releases/tag/v3.0) | [PDF](https://github.com/jaabir84/SSO-Integration-Guideline/releases/download/v3.0/SSO.Integration.Guideline.Document_v3.0.pdf) | [Guideline](https://github.com/jaabir84/SSO-Integration-Guideline/blob/branch-v3.0/Guideline-v3.0.md) |
 | v2.0 | [`branch-v2.0`](https://github.com/jaabir84/SSO-Integration-Guideline/tree/branch-v2.0) | [Release v2.0](https://github.com/jaabir84/SSO-Integration-Guideline/releases/tag/v2.0) | [PDF](https://github.com/jaabir84/SSO-Integration-Guideline/releases/download/v2.0/SSO.Integration.Guideline.Document_v2.0.pdf) | [Guideline](https://github.com/jaabir84/SSO-Integration-Guideline/blob/branch-v2.0/Guideline-v2.0.md) |
 
 ---
